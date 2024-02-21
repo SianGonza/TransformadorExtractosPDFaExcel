@@ -14,3 +14,12 @@ Una vez descargado el ejecutable, abrirlo y seguir los siguientes pasos.
 2) Seleccionar el banco de los PDF a transformar.
 3) En la misma carpeta seleccionada van a aparecer los archivos transformados en formato excel.
 
+## Redes Sociales
+
+- Twitter: https://twitter.com/Giansum
+- Linkedin: https://www.linkedin.com/in/lorenzopattigianfranco/
+
+## Colaboraciones 
+
+Cafecito: https://cafecito.app/giansum
+
